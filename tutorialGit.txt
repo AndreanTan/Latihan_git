@@ -10,3 +10,10 @@
 
 4. Git commit -m "pesan yang ingin disampaikan"
   -m maksudnya adalah message (biasa untuk version / message deskriptif)
+  setelah di commit file yang berwarna hijau akan kembali berwarna putih
+
+5. Git branch -M main (sebenarnya untuk memilih branch mana yang akan dituju)
+
+6. git remote add origin (beseta link ssh atau https)
+
+7. git push -u origin main (untuk mengirim di repository yang ada pada github)
